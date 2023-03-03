@@ -275,4 +275,3 @@ The team would like to acknowledge a number of people who helped us get through 
 * Scrum Master [Larissa Sharkie](https://www.linkedin.com/in/larissa-sharkie-6a888553/)
 * Product Owner [Michelle Audiffred](https://www.linkedin.com/in/michelleaudiffred/)
 * Last but not least the numerous mentors and the [HackYourFuture Team](https://github.com/HackYourFuture) for their untiring guidance and efforts.
-# Courier4me
