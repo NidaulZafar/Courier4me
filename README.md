@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://c39-hyf.herokuapp.com/">
-    <img src="https://c39-hyf.herokuapp.com/dbfa53255332024cec7d8f3a45c01028.png" alt="Our Logo" width="250" height="150">
+    <img src="https://res.cloudinary.com/dl44q0v9r/image/upload/v1678096794/logo_cipz5l.png" alt="Our Logo" width="250" height="150">
   </a>
   </div>
 
